@@ -59,7 +59,7 @@ Not just prompts — I build the systems around the model that make it actually 
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=devopriyanshu&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ffcc&icon_color=ff00aa&text_color=00ffcc&ring_color=ff00aa&include_all_commits=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=devopriyanshu&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ffcc&icon_color=ff00aa&text_color=00ffcc&ring_color=ff00aa" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopriyanshu&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=ff00aa&text_color=00ffcc" />
 
 <br/>
@@ -80,8 +80,10 @@ currently deep in — agentic workflows · LLM evals · multi-agent orchestratio
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00aa,50:0a0a0f,100:00ffcc&height=100&section=footer&reversal=true" />
+![visitors](https://komarev.com/ghpvc/?username=devopriyanshu&style=flat-square&color=00ffcc&label=VISITORS&base=100)
 
-<img src="https://visitcount.itsvg.in/api?id=devopriyanshu&icon=6&color=6" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00aa,50:0a0a0f,100:00ffcc&height=100&section=footer&reversal=true" />
 
 </div>
